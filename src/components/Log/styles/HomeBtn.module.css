@@ -1,0 +1,26 @@
+.btn{
+    color: rgb(98, 100, 100);
+    background-color: transparent;
+    border: none;
+    border-radius: 25px 25px 25px 25px;
+    padding: 1%;
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+    margin: 1%;
+    font-size: 16px;
+    cursor: pointer;
+    
+}
+#root a{
+    text-decoration: none !important;   
+}
+.btn:hover{
+    background-color: rgb(85, 85, 85);
+    color: white;
+}
+.custom{
+    width: 70%;
+    color:  rgb(98, 100, 100);
+    background-color: transparent;
+}
+

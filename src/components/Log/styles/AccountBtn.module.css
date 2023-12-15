@@ -1,0 +1,15 @@
+.btnAccount{
+    width: 100%;
+    align-self: center;
+    padding: 2%;
+    background-color: #8d9cb1;
+    margin-top: 3%;
+    color: #000;
+    border-radius: 15px;
+    border: none;
+
+}
+.btnAccount:hover{
+    background-color: white;
+    cursor: pointer;
+}

@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+.p {
+  margin-top: 2%;
+  margin-bottom: 2%;
+  color: white;
+}
+.asd {
+  color: #167ec4;
+  text-decoration: none;
+  cursor: pointer;
+}
+.title {
+  color: white;
+}
